@@ -1,0 +1,3 @@
+SUPPORTS: only "Main_Case.stl" needs supports.
+INFILL: between 5% and 20% infill.
+LAYER HEIGHT: 0.2mm to 0.35mm works well.
